@@ -1,0 +1,91 @@
+* {
+    padding: 0;
+    margin:0;
+    font-family: cursive;
+    color: white;
+    
+}
+
+.back {
+    width: 100%;
+    height: 100vh;
+    position: fixed;
+    background-image: url(https://previews.123rf.com/images/279photo/279photo1604/279photo160400232/54661738-green-gift-craft-box-and-on-old-wooden-table-.jpg);
+    background-size: cover;
+    z-index: -100;
+    
+}
+
+.area {
+    font-size: 136px;
+    font-weight: bold;
+}
+
+.one{
+    padding-left: 2%;
+}
+
+.name {
+    font-size: 280px;
+    text-align: right;
+}
+
+.det {
+    font-size: 32px;
+    letter-spacing: 2px;
+    margin-bottom: 150px;
+    padding: 10%;
+    
+}
+
+.imgarea {
+    padding-left: 10%;
+    padding-right: 10%;
+    margin-bottom: 150px;
+    
+}
+
+.img {
+    width: 50%;
+    margin-top: 80px;
+    
+}
+
+img {
+    width: 100%;
+}
+
+.right {
+    margin-left: 75%;
+}
+
+.left {
+    75%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
